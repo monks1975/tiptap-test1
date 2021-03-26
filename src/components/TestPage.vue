@@ -62,7 +62,7 @@ export default {
 .grid-container {
   height: 90vh;
   display: grid;
-  grid-template-columns: 61% 1fr;
+  grid-template-columns: 50% 1fr;
   grid-template-rows: min-content 1fr 1fr;
   gap: 1rem;
   grid-template-areas:
